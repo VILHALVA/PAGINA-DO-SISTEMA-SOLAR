@@ -24,4 +24,3 @@ O aplicativo consiste em uma página da web que apresenta informações sobre o 
 ## CREDITOS:
 - [PROJETO CRIADO PELO "CapiDeveloper"](https://github.com/CapiDeveloper/Proyecto-8-CapiDev)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
